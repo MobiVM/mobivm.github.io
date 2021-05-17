@@ -23,8 +23,8 @@ Stable release plugin versions are available from the Jetbrains Plugin Marketpla
 
 1. Install Xcode on MacOS, open it once and agree to the license
 2. Download the MobiVM IntelliJ IDEA plugin Zip file:
-    - [IntelliJ IDEA plugin **Snapshot** builds]()
-    - [IntelliJ IDEA plugin **Release** builds]()
+    - [IntelliJ IDEA plugin **Snapshot** builds](/downloads.html?prefix=snapshots/idea)
+    - [IntelliJ IDEA plugin **Release** builds](/downloads.html?prefix=releases/idea)
 3. Open IntelliJ IDEA/Android Studio, go to `Preferences -> Plugins`
 4. Click `Install plugin from disk...`
 5. Select the Zip you downloaded and re-start IntelliJ IDEA/Android Studio
