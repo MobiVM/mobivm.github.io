@@ -5,7 +5,7 @@ permalink: /downloads.html
 classes: wide2
 ---
 
-<div id="listing"></div>
+<div id="listing" style="font-size:12px"></div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript">
