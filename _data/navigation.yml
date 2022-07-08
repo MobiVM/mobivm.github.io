@@ -1,3 +1,5 @@
 main:
-  - title: "Documentation"
+  - title: "Getting Started"
     url: /dev/
+  - title: "Wiki"
+    url: https://github.com/MobiVM/robovm/wiki

@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MobiVM
 description: >- # this means to ignore newlines until "baseurl:"
-  MobiVM is an ahead-of-time compiler for Java bytecode, targeting iOS, MacOS and Linux.
+  MobiVM is an ahead-of-time compiler for Java bytecode, targeting iOS, macOS and Linux.
 repository: MobiVM/mobivm.github.io
 github_username: mobivm
 minimal_mistakes_skin: air
