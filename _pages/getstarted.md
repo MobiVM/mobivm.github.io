@@ -8,8 +8,6 @@ MobiVM provides plugins for IntelliJ IDEA/Android Studio, Eclipse and Gradle. We
 
 ## IntelliJ IDEA/Android Studio
 
-
-
 To install the MobiVM plugin for IntelliJ IDEA or Android Studio you have two options:
 
 ### 1. Plugin Marketplace (Recommended)
@@ -52,7 +50,7 @@ To use the RoboVM plugin via Gradle, follow the [README in the repository](https
 # Documentation
 
 - [Wiki](https://github.com/mobidevelop/robovm/wiki) (WIP).
-- Legacy RoboVM [official documentation]()
+- Legacy RoboVM [official documentation](http://robovm.mobidevelop.com/docs/en/)
 
 <br/>
 
