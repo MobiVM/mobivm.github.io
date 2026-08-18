@@ -5,6 +5,24 @@ permalink: /downloads.html
 classes: wide2
 ---
 
+MobiVM plugins are available in regular release and snapshot builds. MobiVM 3.x, which supports most Java 8 and Java 11 runtime features and uses libcore 12 from the Android 12 runtime, is currently available as snapshot builds only.
+
+## IntelliJ IDEA/Android Studio
+
+- [Regular release builds](/downloads.html?prefix=releases/idea/)
+- [Regular snapshot builds](/downloads.html?prefix=snapshots/idea/)
+- [3.x snapshot builds](/downloads.html?prefix=snapshots/idea3.x/)
+
+## Eclipse update sites
+
+Add the appropriate URL in Eclipse under `Help -> Install New Software...`:
+
+- Regular release: [`https://mobivm.s3.eu-west-3.amazonaws.com/releases/eclipse/`](https://mobivm.s3.eu-west-3.amazonaws.com/releases/eclipse/)
+- Regular snapshot: [`https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse/`](https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse/)
+- 3.x snapshot: [`https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse3.x/`](https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse3.x/)
+
+## Files
+
 <div id="listing" style="font-size:12px"></div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>

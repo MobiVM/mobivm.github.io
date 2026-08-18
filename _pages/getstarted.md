@@ -6,6 +6,8 @@ classes: single
 
 MobiVM provides plugins for IntelliJ IDEA/Android Studio, Eclipse and Gradle. We provide both release and nightly snapshot builds.
 
+MobiVM 3.x supports most Java 8 and Java 11 runtime features and uses libcore 12 from the Android 12 runtime. The 3.x plugins are currently available as snapshot builds only.
+
 ## IntelliJ IDEA/Android Studio
 
 To install the MobiVM plugin for IntelliJ IDEA or Android Studio you have two options:
@@ -21,8 +23,9 @@ Stable release plugin versions are available from the Jetbrains Plugin Marketpla
 
 1. Install Xcode on macOS, open it once and agree to the license
 2. Download the MobiVM IntelliJ IDEA plugin Zip file:
-    - [IntelliJ IDEA plugin **Snapshot** builds](/downloads.html?prefix=snapshots/idea)
-    - [IntelliJ IDEA plugin **Release** builds](/downloads.html?prefix=releases/idea)
+    - [IntelliJ IDEA plugin **Regular Release** builds](/downloads.html?prefix=releases/idea/)
+    - [IntelliJ IDEA plugin **Regular Snapshot** builds](/downloads.html?prefix=snapshots/idea/)
+    - [IntelliJ IDEA plugin **3.x Snapshot** builds](/downloads.html?prefix=snapshots/idea3.x/)
 3. Open IntelliJ IDEA/Android Studio, go to `Preferences -> Plugins`
 4. Click `Install plugin from disk...`
 5. Select the Zip you downloaded and re-start IntelliJ IDEA/Android Studio
@@ -37,8 +40,9 @@ To install the MobiVM plugin for Eclipse:
 1. Install Xcode on MacOS, open it once and agree to the license
 2. Open Eclipse, go to `Help -> Install New Software...`
 3. Click `Add...` and enter the following update URL:
-    - Eclipse plugin **Snapshot** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse/`
-    - Eclipse plugin **Release** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/releases/eclipse/`
+    - Eclipse plugin **Regular Release** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/releases/eclipse/`
+    - Eclipse plugin **Regular Snapshot** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse/`
+    - Eclipse plugin **3.x Snapshot** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse3.x/`
 4. Select `MobiVM for Eclipse` and finish the installation
 
 ## Gradle
